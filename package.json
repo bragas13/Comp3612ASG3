@@ -1,0 +1,14 @@
+{
+  "name": "packages.json",
+  "version": "1.0.0",
+  "description": "**Please view `COMP3612 Assignment 3.pdf` for instructions**",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "khris bragas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
